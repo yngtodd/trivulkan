@@ -1,0 +1,9 @@
+[package]
+name = "trivulkan"
+version = "0.1.0"
+authors = ["yngtodd <young.todd.mk@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+vulkano = "0.11.1"
+moltenvk_deps = "0.1.5"
